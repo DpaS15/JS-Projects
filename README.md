@@ -1,8 +1,20 @@
-# To-Do List
-This is a simple To-Do List site built using HTML, JavaScript, and basic DOM manipulation.
+# 📌To-Do List
 
-## Features
+A simple and interactive To-Do List website built using HTML, JavaScript, and DOM manipulation. This project allows users to efficiently manage their daily tasks.
 
-- Add new to-do items.
-- View the list of to-do items.
-- Remove completed items from the list.
+## 🚀Features
+- 📝 Add new tasks easily.
+- ✅ Mark tasks as completed.
+- ❌ Delete completed tasks.
+- 📌 Persistent storage(optional: use localStorage to save tasks).
+- 🎨 Clean and user-friendly interface.
+
+## 🛠️Technologies Used
+- HTML5 - Structuring the webpage
+- CSS3 - Styling for a clean design
+- JavaScript (ES6) - Handling logic and interactivity
+
+## 🎨 Customization
+- Modify styles in `styles.css`
+- Enhance functionality in `script.js`
+- Add new features like due dates or priority levels
